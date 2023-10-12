@@ -7,3 +7,8 @@
 
 '''
 
+a = input("Ви повнолітній? (yes/no)" )
+if a == "yes":
+    print ("Welcome to *HUB")
+elif a == "no":
+    print ("Loser")

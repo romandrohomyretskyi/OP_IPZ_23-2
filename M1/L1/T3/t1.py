@@ -10,3 +10,5 @@
 
 #TODO output : hello world
 '''
+
+print ("Hello, world!")

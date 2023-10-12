@@ -5,5 +5,5 @@
 Привіт!#
 
 '''
-hello = Привіт!
+hello = "Привіт!"
 print(hello)

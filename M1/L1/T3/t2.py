@@ -4,3 +4,8 @@
 
 #?Зверніть увагу: значення рядка в Python може складатись з літер алфавіту української мови.
 '''
+
+
+print("Hello, world! ")
+print("Hello, world! ")
+print("Hello, world! ")
